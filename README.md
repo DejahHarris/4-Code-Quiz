@@ -4,9 +4,9 @@ For challenge four, I built a timed code quiz that's made up of multiple-choice 
 
 # Usage 
 ![Usage](/assets/images/Screenshot%202022-12-03%20at%2011.35.58%20PM.png "Screenshot 1")
-![Usage](/assets/images/Screenshot%202022-12-03%20at%2011.36.46%20PM.png"Screenshot 2")
+![Usage](/assets/images/Screenshot%202022-12-03%20at%2011.36.46%20PM.png "Screenshot 2")
 
 # Links
-Deployed site:
+Deployed site: https://dejahharris.github.io/4-Code-Quiz/
 
 Repository: https://github.com/DejahHarris/4-Code-Quiz
